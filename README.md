@@ -38,7 +38,7 @@ We take the first element of this list i.e. the one with the maximum number of c
 
 
 
-## Future Scope:
+### Future Scope:
 
 + Creating categories for courses such as core courses, electives and minor courses where core courses should not remain unassigned.
 + Extending the number of professor categories beyond the existing three such as assistant and associate professors.
